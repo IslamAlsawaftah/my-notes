@@ -25,10 +25,6 @@ I am excited at the prospect of collaborating with your team, to share and learn
 
 <https://www.linkedin.com/in/islam-al-sawaftah-0247a8170/>
 
-### profile picture
-
-![lorem ipsum](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjsdp.enslaved.org%2Fassets%2Fimages%2F&psig=AOvVaw12gtT87E4Z0AZ86p01AxM_&ust=1644258211486000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPjKq6_Z6_UCFQAAAAAdAAAAABAX)
-
 ## Summary
 
 Learn the fundamentals of a good developer mindset in 15 minutesEvery developer is suffering from many horror stories and they may affect the software in a negative way. Exploring them may take time and if the developer doesn't notice them at first, they will stack up and the complexity become more. the developer will become a victim of these horror stories. what should a developer do to avoid them? he should develop the mindset that every developer should have and keep the software as simple as possible.the points that should every developer master :
